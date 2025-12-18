@@ -1,0 +1,211 @@
+=== student_01.txt ===
+V-V-V-V-V-V-V-V
+HEIGHT: 8
+WIDTH: 1
+TYPE: SINGLE_COLUMN
+COLOR: RED
+
+=== student_02.txt ===
+H-H-H-H-H-H-H-H
+HEIGHT: 1
+WIDTH: 8
+TYPE: SINGLE_ROW
+COLOR: BLUE
+
+=== student_03.txt ===
+1
+2-2
+3-3-3
+4-4-4-4
+5-5-5-5-5
+TYPE: ASCENDING
+COLOR: GREEN
+
+=== student_04.txt ===
+    1
+   2-2
+  3-3-3
+ 4-4-4-4
+TYPE: PYRAMID
+COLOR: YELLOW
+
+=== student_05.txt ===
+H-H-H-H
+      V
+      V
+      V
+      V
+TYPE: L_SHAPE
+COLOR: ORANGE
+
+=== student_06.txt ===
+H-H-H
+V   V
+V   V
+H-H-H
+TYPE: FRAME
+COLOR: PURPLE
+
+=== student_07.txt ===
+V-V-V-V    V-V-V-V
+[  SPACE  ]
+HEIGHT: 4
+SPACING: 4-UNITS
+TYPE: PARALLEL_VERTICAL
+COLOR: RED
+
+=== student_08.txt ===
+  H-H
+ /  \
+H-H  H-H
+ \  /
+  H-H
+TYPE: ZIGZAG
+PEAKS: 3
+COLOR: BLUE
+
+=== student_09.txt ===
+O   O   O   O
+SPACING: 2-UNITS
+COUNT: 4
+TYPE: SCATTERED_PATH
+COLOR: GREEN
+
+=== student_10.txt ===
+V-V-V    V-V-V
+  H-H-H-H-H
+TYPE: ARCH
+WIDTH: 5
+COLOR: YELLOW
+
+=== student_11.txt ===
+CORNERS: 4
+CORNER_HEIGHT: 2
+TOP_SIZE: 3x3
+TYPE: ELEVATED_PLATFORM
+COLOR: ORANGE
+
+=== student_12.txt ===
+W W W W W
+W W W W W
+W W W W W
+HEIGHT: 3
+WIDTH: 5
+TYPE: WALL_PANEL
+COLOR: PURPLE
+
+=== student_13.txt ===
+V-V-V-V-V-V
+HEIGHT: 6
+WIDTH: 1
+TYPE: SINGLE_COLUMN
+COLOR: RED
+
+=== student_14.txt ===
+H-H-H-H-H-H
+HEIGHT: 1
+WIDTH: 6
+TYPE: SINGLE_ROW
+COLOR: BLUE
+
+=== student_15.txt ===
+1
+2-2
+3-3-3
+4-4-4-4
+TYPE: ASCENDING
+STEPS: 4
+COLOR: GREEN
+
+=== student_16.txt ===
+   1
+  2-2
+ 3-3-3
+TYPE: PYRAMID
+SIZE: SMALL
+COLOR: YELLOW
+
+=== student_17.txt ===
+H-H-H
+    V
+    V
+    V
+TYPE: L_SHAPE
+ARM_LENGTH: 3
+COLOR: ORANGE
+
+=== student_18.txt ===
+H-H-H-H
+V    V
+V    V
+H-H-H-H
+TYPE: FRAME
+SIZE: 4x4
+COLOR: PURPLE
+
+=== student_19.txt ===
+V-V-V-V-V    V-V-V-V-V
+[   SPACE   ]
+HEIGHT: 5
+SPACING: 5-UNITS
+TYPE: PARALLEL_VERTICAL
+COLOR: RED
+
+=== student_20.txt ===
+   H-H
+  /  \
+ H-H  H-H
+  \  /
+   H-H
+    |
+   H-H
+TYPE: ZIGZAG
+PEAKS: 4
+COLOR: BLUE
+
+=== student_21.txt ===
+O  O  O  O  O
+SPACING: 1.5-UNITS
+COUNT: 5
+TYPE: SCATTERED_PATH
+CURVE: YES
+COLOR: GREEN
+
+=== student_22.txt ===
+V-V-V-V    V-V-V-V
+    H-H-H-H
+TYPE: ARCH
+WIDTH: 4
+HEIGHT: 4
+COLOR: YELLOW
+
+=== student_23.txt ===
+CORNERS: 4
+CORNER_HEIGHT: 3
+TOP_SIZE: 4x4
+LADDER_ATTACHED: YES
+TYPE: ELEVATED_PLATFORM
+COLOR: ORANGE
+
+=== student_24.txt ===
+W W W W W W
+W W W W W W
+W W W W W W
+W W W W W W
+HEIGHT: 4
+WIDTH: 6
+TYPE: WALL_PANEL
+TEXTURE: TACTILE
+COLOR: PURPLE
+
+=== INSTRUCTIONS FOR USE ===
+
+Copy each section above (between === markers) into separate .txt files.
+
+For example, copy everything between:
+=== student_01.txt ===
+and the next === marker
+
+Into a file named: student_01.txt
+
+Repeat for all 24 files.
