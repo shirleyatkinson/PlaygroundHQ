@@ -46,7 +46,7 @@ Plus, you'll practice:
 
 **You are Student XX** *(allocated during the session)*
 
-**Your data file:** `data/student_XX.txt`
+**Your data :** Inside the data folder, look for your student number in the file alldata.txt eg: `student_XX.txt`
 
 ### Important Links
 
